@@ -72,26 +72,26 @@ line-height: 1.5;
 #autor{
 	position:absolute;
 	z-index:3;
-	top:350px;
-	left:-225px;
+	top:75px;
+	left:575px;
 	font-size:30px;
 	font-weight:600;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#000;
-	width:700px;
+	width:500px;
 	text-align:center;
 }
 
 #directora{
 	position:absolute;
 	z-index:3;
-	top:350px;
-	left:425px;
+	top:150px;
+	left:575px;
 	font-size:30px;
 	font-weight:600;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#000;
-	width:700px;
+	width:500px;
 	text-align:center;
 }
 .cube{
@@ -1015,17 +1015,18 @@ h2 {
 #etsii_logo{
 	position:absolute;
 	top:000px;
-	left:625px;
+	left:200px;
 	background:#FFF;
 	border-radius:20px;
 	padding:10px;
+	padding-right:20px;
 }
 
 
 #ull_logo{
 	position:absolute;
 	top:-000px;
-	left:-0px;
+	left:-150px;
 	background:#FFF;
 	border-radius:20px;
 	padding:10px;
