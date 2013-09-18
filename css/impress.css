@@ -1242,14 +1242,14 @@ table .tecno{
 
 #bored6 .AES{
 	position:absolute;
-	top:220px;
+	top:230px;
 }
 
 
 
 #bored6 .WPS{
 	position:absolute;
-	top:330px;
+	top:350px;
 }
 
 #bored7 h1{
@@ -1342,9 +1342,10 @@ font-size:18px;}
 	
 #bored15 p{
 	position:absolute;
-	top:50px;
+	top:80px;
 	left:25px;
 	text-align:left;
+	font-weight:normal;
 }
 	
 	
