@@ -1677,8 +1677,6 @@ font-size:18px;}
 
 #conclusion ul{
 	list-style:circle;
-	position:absolute;
-	left:200px;
 }
 
 
@@ -1744,4 +1742,16 @@ font-size:18px;}
 #Indice ul{
 	position:absolute;
 	left:100px;
+}
+
+
+#finl{
+	position:absolute;
+	left:50px;
+}
+
+
+#finr{
+	position:absolute;
+	left:600px;
 }
