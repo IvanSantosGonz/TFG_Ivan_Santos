@@ -27,11 +27,11 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 }
 
 #fin.present .animated.hinge {
-	-webkit-animation-delay: 3.75s;
-    -moz-animation-delay:    3.75s;
-    -ms-animation-delay:     3.75s;
-    -o-animation-delay:      3.75s;
-    animation-delay:         3.75s;
+	-webkit-animation-delay: 2.75s;
+    -moz-animation-delay:    2.75s;
+    -ms-animation-delay:     2.75s;
+    -o-animation-delay:      2.75s;
+    animation-delay:         2.75s;
 	-webkit-animation-duration: 2s;
 	   -moz-animation-duration: 2s;
 	     -o-animation-duration: 2s;
